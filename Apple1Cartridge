@@ -1,0 +1,31 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>KiCad BOM Example 5</title>
+    </head>
+    <body>
+    <h1>/Users/piotrek/Projects/Apple1CartridgePcbV2/Apple1Cartridge.sch</h1>
+    <p>2020 December 21, Monday 18:46:05</p>
+    <p>Eeschema (5.1.5-0)</p>
+    <p><b>Component Count:</b>17</p>
+    <table>
+    <tr><th style='width:640px'>Ref</th><th>Qnty</th><th>Value</th><th>Part</th><th>Footprint</th><th>Description</th><th>Vendor</th></tr>
+    <tr><td>BANK1</td><td>1</td><td>74LS74</td><td>74xx:74LS74</td><td>Package_DIP:DIP-14_W7.62mm_Socket_LongPads</td><td>Dual D Flip-flop, Set & Reset</td><td></td></tr>
+    <tr><td>C1, C2, C3, C4</td><td>4</td><td>0.1uF</td><td>Device:C</td><td>Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm</td><td>Unpolarized capacitor</td><td></td></tr>
+    <tr><td>C5</td><td>1</td><td>22uF</td><td>Device:CP1</td><td>Capacitor_THT:CP_Radial_D4.0mm_P2.00mm</td><td>Polarized capacitor, US symbol</td><td></td></tr>
+    <tr><td>CONNECTOR1</td><td>1</td><td>44pin_edge</td><td>44pin:44pin_edge</td><td>44pin:44pin1</td><td></td><td></td></tr>
+    <tr><td>DECODER1</td><td>1</td><td>GAL22V10</td><td>GAL22V10-15LP:GAL22V10-15LP</td><td>Package_DIP:DIP-24_W7.62mm_Socket_LongPads</td><td>Lattice Semiconductor GAL20V8B-15LP, SPLD GAL, GAL20V8B 8 Macro Cells, 8 I/O, 62.5MHz External 15ns EECMOS 24-Pin PDIP</td><td></td></tr>
+    <tr><td>MODE_SWITCH1</td><td>1</td><td>SW_SPDT</td><td>Switch:SW_SPDT</td><td>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</td><td>Switch, single pole double throw</td><td></td></tr>
+    <tr><td>R1, R2, R3</td><td>3</td><td>1K</td><td>Device:R_US</td><td>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</td><td>Resistor, US symbol</td><td></td></tr>
+    <tr><td>RAM1</td><td>1</td><td>62256</td><td>AT28C64B-15PU:AT28C256</td><td>Package_DIP:DIP-28_W15.24mm_Socket_LongPads</td><td>AT28C64B-15PU, Parallel EEPROM Memory 64kbit, Parallel, 150ns 4.5  5.5 V, 28-Pin PDIP</td><td></td></tr>
+    <tr><td>RAM2</td><td>1</td><td>62256</td><td>AT28C64B-15PU:AT28C256</td><td>Package_DIP:DIP-28_W15.24mm_Socket</td><td>AT28C64B-15PU, Parallel EEPROM Memory 64kbit, Parallel, 150ns 4.5  5.5 V, 28-Pin PDIP</td><td></td></tr>
+    <tr><td>ROM1</td><td>1</td><td>28C256</td><td>AT28C64B-15PU:AT28C256</td><td>Package_DIP:DIP-28_W15.24mm_Socket_LongPads</td><td>AT28C64B-15PU, Parallel EEPROM Memory 64kbit, Parallel, 150ns 4.5  5.5 V, 28-Pin PDIP</td><td></td></tr>
+    <tr><td>ROM_PWR_REG1</td><td>1</td><td>L7805</td><td>Regulator_Linear:L7805</td><td>Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown</td><td>Positive 1.5A 35V Linear Regulator, Fixed Output 5V, TO-220/TO-263/TO-252</td><td></td></tr>
+    <tr><td>ROM_PWR_SEL1</td><td>1</td><td>ROM_PWR_SEL</td><td>Connector:Conn_01x03_Male</td><td>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</td><td>Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</td><td></td></tr><!--TABLEROW-->
+    </table>
+    </body>
+</html>
+    

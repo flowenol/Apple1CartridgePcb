@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP GAL20V8B-15LP
+D Lattice Semiconductor GAL20V8B-15LP, SPLD GAL, GAL20V8B 8 Macro Cells, 8 I/O, 62.5MHz External 15ns EECMOS 24-Pin PDIP
+F http://uk.rs-online.com/web/p/products/4142962
+$ENDCMP
+#
+$CMP GAL22V10-15LP
+D Lattice Semiconductor GAL20V8B-15LP, SPLD GAL, GAL20V8B 8 Macro Cells, 8 I/O, 62.5MHz External 15ns EECMOS 24-Pin PDIP
+F http://uk.rs-online.com/web/p/products/4142962
+$ENDCMP
+#
+#End Doc Library

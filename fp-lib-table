@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name 44pin)(type KiCad)(uri ${KIPRJMOD}/44pin.pretty)(options "")(descr "44 pin edge connector"))
+)
